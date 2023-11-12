@@ -25,4 +25,36 @@ db.products.insertMany([
     name: "Prodcut 4",
     price: 120
   }
+  {
+    _id: 5,
+    name: "Pelota",
+    price: 1200
+  }
+  {
+    _id: 6,
+    name: "Piso",
+    price: 203
+  }
+  {
+    _id: 7,
+    name: "Oso",
+    price: 320
+  }
+  {
+    _id: 8,
+    name: "Casa",
+    price: 250
+  }
+  {
+    _id: 9,
+    name: "Avion",
+    price: 360
+  }
+  {
+    _id: 10,
+    name: "Tela",
+    price: 698
+  }
+  
+
 ])
