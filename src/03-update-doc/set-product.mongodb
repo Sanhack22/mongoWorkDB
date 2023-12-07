@@ -14,7 +14,7 @@ db.products.updateOne(
     }
 
 
-  }
+  },
   {_id: 5},
   // change => operators
   {
@@ -24,7 +24,7 @@ db.products.updateOne(
     }
 
     
-  }
+  },
   {_id: 6},
   // change => operators
   {
@@ -34,7 +34,7 @@ db.products.updateOne(
     }
 
     
-  }
+  },
   {_id: 7},
   // change => operators
   {
@@ -44,7 +44,7 @@ db.products.updateOne(
     }
 
     
-  }
+  },
   {_id: 8},
   // change => operators
   {
@@ -54,7 +54,7 @@ db.products.updateOne(
     }
 
     
-  }
+  },
   {_id: 9},
   // change => operators
   {
@@ -64,7 +64,7 @@ db.products.updateOne(
     }
 
     
-  }
+  },
   {_id: 10},
   // change => operators
   {
